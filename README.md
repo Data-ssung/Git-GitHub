@@ -1,4 +1,4 @@
-# git-github-study
+# Git & GitHub
 #### git과 github 공부용 저장소
 
 - git과 github의 입문 과정을 정리한 내용입니다.
